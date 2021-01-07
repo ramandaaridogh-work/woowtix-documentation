@@ -5,7 +5,8 @@
 ## Front End
 
 * [Getting Started - Front End](front-end/beranda-front-end/README.md)
-  * [Untitled](front-end/beranda-front-end/untitled.md)
+  * [Beranda](front-end/beranda-front-end/untitled.md)
+  * [Detail Event](front-end/beranda-front-end/detail-event.md)
 
 ## Back End
 
