@@ -5,9 +5,9 @@
 ## Front End
 
 * [Getting Started - Front End](front-end/beranda-front-end/README.md)
-  * [Register](front-end/beranda-front-end/register.md)
   * [Beranda](front-end/beranda-front-end/untitled.md)
   * [Detail Event](front-end/beranda-front-end/detail-event.md)
+  * [Register](front-end/beranda-front-end/register.md)
 
 ## Back End
 
